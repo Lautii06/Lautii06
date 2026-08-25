@@ -1,4 +1,4 @@
-![Lautaro Martinez - Developer](https://github.com/user-attachments/assets/7174b8ba-5f18-447b-afdf-b270d282fe65)
+![Lautaro Martinez - Developer](https://github.com/user-attachments/assets/a448c191-78e7-4431-8938-56316a8d3180)
 
 <br />
 
