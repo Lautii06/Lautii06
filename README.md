@@ -36,8 +36,7 @@ Soy un desarrollador apasionado por crear soluciones eficientes, funcionales y b
 
 ### 📊 GitHub Stats
 
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=Lautii06&show_icons=true&theme=radial&hide_border=true)
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Lautii06&theme=midnight)
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautii06&layout=compact&theme=radial&hide_border=true)
 
 ---
