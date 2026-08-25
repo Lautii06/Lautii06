@@ -51,4 +51,4 @@ Soy un desarrollador apasionado por crear soluciones eficientes, funcionales y b
 - ✉️ **Email:** tuemail@ejemplo.com
 
 
-![Snake](https://raw.githubusercontent.com/Lautii06/Lautii06/output/snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/Lautii06/Lautii06/output/github-contribution-grid-snake-dark.svg)
